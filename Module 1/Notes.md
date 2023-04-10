@@ -12,10 +12,19 @@ El objetivo es utilizar la informatica en la nube como software y no como hardwa
 
 ## Modelos de servicio en la nube 
 Cada uno proporciona un control distinto de los recursos TI
-jkkhjklhkl9
+<img src="./images/modelo-de-servicio-nube.png">
 Iaas (Infrastucture as a service)
 
-Paas (Platfortm as a service)
+Paas (Platfortm as a service): deployment and management 
 
-Saas (Sofware as a service)
+Saas (Sofware as a service): web mail application without think about hardware and low level config
 
+## Modelos de implementacion de informatica en la nube
+
+Nube: located only in cloud 
+
+Hibrido: they are not located in cloud, they are in physical infrastucture
+
+Infraestructura local (nube privada): dedicate resources
+
+<img src="./images/similitudes-instalaciones-TI-vs-AWS.png">
