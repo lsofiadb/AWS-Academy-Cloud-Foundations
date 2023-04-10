@@ -49,3 +49,54 @@ Number five
 
 Number six
 - Desplegar, implementar la aplicacion en varias regiones de AWS alrededor del mundo  
+
+## Section 3: Introduction to AWS(Amazon Web Services)
+
+<img src="./images/web-services.png">
+
+AWS
+
+Es una plataforma en la nube segura que ofrece un amplio conjunto de productos globales basados en la nube.
+
+AWS proporciona acceso bajo demanda a recursos informaticos de almacenamiento, red, bds, y otros recursos de TI y herramientas de administracion.
+
+Ofrece flexibilidad
+
+Solo paga por los servicios individuales que necesita, en la medida en que los utilice.
+
+Los servicios en AWS trabajan en conjunto como piezas fundamentales.
+
+## Categorias de servicios de AWS
+<img src="./images/services-categories.png">
+
+La eleccion del servicio depende de sus objetivos empresariales y requisitos tecnologicos
+
+- Amazon EC2: complete control over your AWS compute resources and infrastructure.
+
+- AWS Lambda: when you want to run code and not manage or provision services.
+
+- AWS Elastic Beanstalk: allows you to provision a service that then deploy management scales web applications automatily for you 
+
+- Amazon Ligthsail: cloud platform for a simple web application 
+
+- AWS Batch: you will use it when you run thousands or hundreds of batches works and you need to them reliably
+
+- AWS Outposts: when you want to run AWS infrastructure on your own data center.
+
+In order to implement microservices you can use: 
+- AWS Fargate
+- Amazon ECS: Elastic Container Service
+- Amazon EKS: Elastic Kubernetes Service
+
+- VMware Cloud on AWS: cuando se tiene una plataforma de virtualizacion de servidores en las instalaciones que desee migrar a AWS
+
+Course services that we'll see:
+<img src="./images/course-services.png">
+
+## Formas de interactuar con AWS
+
+- Consola de administracion de AWS: interfaz grafica facil de usar
+
+- Interfaz de linea de comandos (AWS CLI): acceso a los servicios mediante comandos discretos o scripts
+
+- Kits de desarrollo de software (SDK): acceso a los servicios directamente desde el codigo como Java, Python, etc 
