@@ -100,3 +100,22 @@ Course services that we'll see:
 - Interfaz de linea de comandos (AWS CLI): acceso a los servicios mediante comandos discretos o scripts
 
 - Kits de desarrollo de software (SDK): acceso a los servicios directamente desde el codigo como Java, Python, etc 
+
+## Section 4: Migracion a la nube de AWS - Marco de adopcion de la nube de AWS ( AWS Cloud Adoption Framework) (CAF de AWS)
+
+Facilita el proceso de migracion a la nube para las compañias de acuerdo a distintos aspectos:
+<img src="./images/CAF.png">
+
+3 elementos deben estar en completa sintonia: personas, procesos y tecnologia.
+
+Las perspectivas: Negocio, Gente y Gobernanza se enfoca en las capacidades empresariales
+
+Las perspectivas: Plataforma, seguridad y operaciones se enfoca en las capacidades tecnicas
+
+<img src="./images/perspectiva-de-negocios.png">
+<img src="./images/perspectiva-de-personal.png">
+<img src="./images/perspectiva-de-gobernanza.png">
+<img src="./images/perspectiva-de-plataforma.png">
+<img src="./images/perspectiva-de-seguridad.png">
+<img src="./images/perspectiva-de-operaciones.png">
+
