@@ -28,3 +28,24 @@ Hibrido: they are not located in cloud, they are in physical infrastucture
 Infraestructura local (nube privada): dedicate resources
 
 <img src="./images/similitudes-instalaciones-TI-vs-AWS.png">
+
+## Section 2: Cloud Computing Advantages 
+Number one
+- Cambiar sus gastos de capital (CapEx, fondos que utiliza una empresa para adquirir, actualizar y mantener los activos fisicos) por gastos variables
+- Inversion en data centers segun las previsiones
+- Pagar solo por la cantidad que consuma
+
+Number two
+- Debido al uso acumulado por parte de todos los clientes, AWS puede lograr mayores econonomias de escala y transferir ahorros a otros clientes
+
+Number three
+- Evitar asumir estimaciones sobre capacidad: capacidad del servidor sobreestimada o subestimada, por ende se realiza un ajuste de escala bajo demanda
+
+Number four
+- Aumenta la velocidad y la agilidad
+
+Number five
+- Dejar de gastar dinero en ejecucion y el mantenimiento de data centers, en lugar de ello la compañia puede centrarse en proyectos que la destaquen en luigar de enfocarse en la infraestructura 
+
+Number six
+- Desplegar, implementar la aplicacion en varias regiones de AWS alrededor del mundo  
