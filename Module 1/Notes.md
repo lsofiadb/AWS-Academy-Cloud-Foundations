@@ -12,6 +12,7 @@ El objetivo es utilizar la informatica en la nube como software y no como hardwa
 
 ## Modelos de servicio en la nube 
 Cada uno proporciona un control distinto de los recursos TI
+
 <img src="./images/modelo-de-servicio-nube.png">
 
 Iaas (Infrastucture as a service)
